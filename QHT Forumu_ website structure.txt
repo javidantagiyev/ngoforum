@@ -1,0 +1,129 @@
+Azərbaycan Milli QHT Forumu veb-saytı üçün ilkin struktur planı
+
+I. Naviqasiya Menyusu (Navigation Menu)
+
+Ana Səhifə
+
+Haqqımızda
+
+Üzvlük
+
+QHT Axtarışı
+
+Qanunvericilik & Resurslar
+
+QHT Akademiyası
+
+Tədbirlər & Elanlar
+
+Media Mərkəzi
+
+Əlaqə
+
+Fəaliyyətə Keç / Kampaniyalar (Xüsusi blok)
+
+II. Kontent Planı (Content Plan)
+
+1. Ana Səhifə
+
+Banner/slayder: Tədbir, elan, kampaniya
+
+Forum haqqında qısa məlumat
+
+Statistik blok: QHT sayı, region, tədbir
+
+Son yeniliklər, elən və press-relizlər
+
+Tez keçid düymələri (Üzv ol, Təlimə yazıl, Elana bax)
+
+2. Haqqımızda
+
+Missiya, vizyon, dəyərlər
+
+Tarixçə
+
+Struktur, komanda, idarə heyəti
+
+Tərəfdaşlar
+
+Hesabatlar
+
+3. Üzvlük
+
+Üzv olmaq qaydaları
+
+Onlayn müraciət formu
+
+Yeni üzvlər (kart formasında)
+
+Üzvlüyü yeniləyən QHT-lər
+
+
+4. QHT Axtarışı
+
+Region, sahə, status filtrələr
+
+Vizual xəritə üzərində göstəriş
+
+5. Qanunvericilik & Resurslar
+
+Qanunlar, normativ aktlar
+
+Layihə şablonları
+
+6. QHT Akademiyası
+
+Təlim və seminar (video, PDF)
+
+Tədbirə qeydiyyat 
+
+7. Tədbirlər & Elanlar
+
+Qarşıdan gələn tədbirlər
+
+Təcrübə proqramları
+
+Seminarlar, forumlar
+
+Arxiv (keçmiş tədbirlər)
+
+8. Media Mərkəzi
+
+Foto qalereya
+
+Video arxiv
+
+Press-relizlər
+
+QHT Hekayələri
+
+9. Əlaqə
+
+Forumun ünvanı, telefon, e-poçt, social media
+
+Online mesaj formu
+
+Tez-tez verilən suallar (FAQ)
+
+10. Fəaliyyətə Keç / İdeya Bankı 
+
+Könüllü proqramlara qoşul
+
+Tərəfdaşlıq müraciət forması
+
+III. Wireframe / Vizual Struktur (Təsviri təqdimat)
+
+(Sadə skelet formasında):
+
+[ANA SƏHIFƏ]| Slayder/Banner || Statistik Blok || Tez Keçid Düymələri || Xəbərlər | Kampaniyalar | QHT Arenası |
+
+[Menyu yuxarıda sabit qalacaq]
+
+[Alt qisim]
+
+Əlaqə bloku
+
+Sosial media
+
+Daxili linklər (Gizlilik siyasəti, sayt xəritəsi)
+
